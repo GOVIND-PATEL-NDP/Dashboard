@@ -6,7 +6,7 @@ import {
 } from "recharts";
 
 export default function Dashboard() {
-  const [data, setData] = useState([]);
+  const  [data, setData] = useState([]);
 
   useEffect(() => {
     fetch("/EV_Data.csv")

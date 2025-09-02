@@ -12,7 +12,7 @@ const stats = [
     textColor: "text-emerald-600 dark:text-emerald-400",
   },
   {
-    title: "Active Users",
+    title: " Active Users",
     value: "8,549",
     change: "+8.2%",
     trend: "up",

@@ -11,7 +11,7 @@ import {
 
 const RevenueChart = () => {
   const data = [
-    { month: "Jan", revenue: 56093, expenses: 32000 },
+    { month: "Jan ", revenue: 56093, expenses: 32000 },
     { month: "Feb", revenue: 52093, expenses: 38000 },
     { month: "Mar", revenue: 48093, expenses: 35000 },
     { month: "Apr", revenue: 61093, expenses: 42000 },

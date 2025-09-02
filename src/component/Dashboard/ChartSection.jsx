@@ -10,7 +10,7 @@ const ChartSection = () => {
             </div>
             
             <div className="space-y-6">
-                <SalesChart/>
+                <SalesChart />
             </div>
             <div></div>
         </div>

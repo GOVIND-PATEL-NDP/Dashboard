@@ -9,7 +9,7 @@ const activities = [
     description: 'John Smith created an account',
     time: '2 minutes  ago',
     icon: User,
-    byColor: 'bg-blue-100 dark:bg-blue-900/30'
+    byColor: ' bg-blue-100 dark:bg-blue-900/30'
   },
   {
     id: 2,

@@ -11,7 +11,7 @@ const Header = ({onToggleSidebar}) => {
             onClick={onToggleSidebar}
             >
               <Menu className='w-5 h-5'/>
-            </button>
+            </button >
             <div className='hidden md:block'>
               <h1 className='text-2xl font-black text-slate-800 dark:text-white'>
                   Dashboard
