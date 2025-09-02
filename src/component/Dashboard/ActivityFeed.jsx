@@ -7,7 +7,7 @@ const activities = [
     type: 'user',
     title: 'New user registered',
     description: 'John Smith created an account',
-    time: '2 minutes ago',
+    time: '2 minutes  ago',
     icon: User,
     byColor: 'bg-blue-100 dark:bg-blue-900/30'
   },

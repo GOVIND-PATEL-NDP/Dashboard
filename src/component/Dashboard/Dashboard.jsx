@@ -8,7 +8,7 @@ const Dashboard = () => {
   return (
     <div className='space-y-6'>
        {/* States Grid  */}
-        <StatsGrid/> 
+        <StatsGrid /> 
         {/* Charts Sections  */}
         <ChartSection/>
         <div className='grid grid-cols-1 xl:grid-cols-3 gap-6'>
